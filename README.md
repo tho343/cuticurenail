@@ -1,6 +1,6 @@
 # cuticurenail
 Front-end developer project
-[Cuticure Nail Salon Website]([url](https://tho343.github.io/cuticurenail))
+[Cuticure Nail Salon Website]([url](https://tho343.github.io/cuticurenail/))
 
 
 ## 10/04/2022
