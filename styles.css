@@ -4,6 +4,7 @@ body{
     font-size: 22px;
     text-align: center;
     font-family: 'Noto Serif', serif;
+    color: #834234;
 }
 .header{
     display: flex;
@@ -29,10 +30,41 @@ body{
     background-image: url('nail.jpg');
     background-size:contain;
     background-color: #D8D4CD;
+    color:white;
    
 }
 .introduction div{
     background-color: #7B8279;
     width: 100%;
     margin:auto;
+}
+#services{
+    min-height: 500px;
+    margin: auto;
+   padding-top: 70px;
+}
+.services-type{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.service{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.service img{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: auto;
+
+}
+.service span{
+    padding: 5px;
+    min-width: 240px;
+    font-weight: bold;
+    text-align: center;
 }
