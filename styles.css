@@ -3,6 +3,7 @@ body{
     background-color: #D8D4CD;
     font-size: 22px;
     text-align: center;
+    font-family: 'Noto Serif', serif;
 }
 .header{
     display: flex;
