@@ -6,6 +6,9 @@ body{
     font-family: 'Noto Serif', serif;
     color: #834234;
 }
+a{
+    color: #834234;
+}
 .header{
     display: flex;
     flex-direction: column;
@@ -42,6 +45,7 @@ body{
     min-height: 500px;
     margin: auto;
    padding-top: 70px;
+   padding-bottom: 70px;
 }
 .services-type{
     display: flex;
@@ -67,4 +71,28 @@ body{
     min-width: 240px;
     font-weight: bold;
     text-align: center;
+}
+#team{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #BBAC9B;
+    color: #834234;
+}
+.team-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.team-mate{
+padding:10px;
+flex-basis:  280px;
+}
+.team-mate img{
+    width:200px;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact{
+    padding-top: 70px;
 }
